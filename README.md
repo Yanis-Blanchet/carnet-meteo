@@ -7,3 +7,4 @@ Outil en ligne de commande pour enregistrer des relevés de température.
 ## Utilisation
 
 Auteur <votre prénom>
+Licence MIT
